@@ -1,0 +1,34 @@
+﻿*{
+	padding: 0;
+	margin: 0;
+	background-image: url("b1.jpg");
+	font-family: 'Grenze Gotisch', cursive;
+	padding: 10px;
+	
+
+}
+h2{
+	font-size: 200%;
+	color: red;
+}
+h1{
+	font-size: 250%;
+
+}
+ p{
+ 	font-size: 150%;
+ }
+ h3{
+ 	font-size: 210%;
+ 	color: orange;
+ }
+ h4 {
+ 	font-size: 150%;
+
+ }
+ h5{
+ 	font-size: 250%;
+
+ }
+
+ 

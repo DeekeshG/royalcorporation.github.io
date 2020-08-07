@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	font-size: 250%;
+	padding: 15px;
+	color: red;
+}
+body{
+	background-image: url("con1.jpg");
+}
+input {
+	font-size: 80%;
+}
+button {
+	font-size: 70%;
+
+}
+
+h3 {
+	font-size: 250%;
+}
